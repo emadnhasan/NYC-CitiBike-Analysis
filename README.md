@@ -3,7 +3,7 @@
 # Overview
 An analysis of the NYC CitiBike bike-sharing program to examine the viability of a similar program in another city. Citibike is the nation's largest bike sharing program, offering an affordable and fun way to travel and sightsee. The purpose of this analysis was to examine various metrics in order to determine if this business model would be effective in other cities.
 
-Additonal visualizations and information can be found at [NYC CiitBike Tableau Story].(https://public.tableau.com/app/profile/emad.hasan2152/viz/NYCCitiBike_16542143994800/NYCCitiBike?publish=yes)
+Additonal visualizations and information can be found at [NYC CiitBike Tableau Story](https://public.tableau.com/app/profile/emad.hasan2152/viz/NYCCitiBike_16542143994800/NYCCitiBike?publish=yes)
 
 # Results
 * The peak hours for bike rental is between 5pm and 6pm. 
